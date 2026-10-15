@@ -10,7 +10,7 @@ Repositório centralizado com ferramentas automatizadas para simulação finance
 
 | Tela do Simulador |
 | :---: |
-| ![Calculadora de Investimentos](calculadora-patrimonio/img/simulador-acumulo-patrimonio.png) |
+| <img src="calculadora-patrimonio/img/simulador_acumulo_patrimonio.png" alt="Calculadora de Investimentos" width="300"> |
 
 ---
 
