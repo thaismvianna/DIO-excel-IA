@@ -28,7 +28,18 @@ Repositório centralizado com ferramentas automatizadas para simulação finance
 * **O que faz:** Implementa um banco de dados relacional em PostgreSQL para armazenamento e consulta de cartas Pokémon, utilizando tabelas normalizadas, scripts de carga de dados e views para simplificar consultas.
 * **Recursos principais:** Modelagem relacional, chaves estrangeiras, scripts de migração e criação da view `vw_cards_complete` para consulta das cartas com informações descritivas em vez de IDs.
 
+---
+
+### 4. 🎮 Dashboard de Vendas Xbox 
+
+* **O que faz:** Apresenta indicadores e métricas de vendas de assinaturas Xbox Game Pass em um dashboard interativo desenvolvido no Excel.
+* **Recursos principais:** Tabelas dinâmicas, segmentação de dados, indicadores de faturamento e análise de vendas dos adicionais EA Play e Minecraft Season Pass. 
+
+| Dashboard |
+| :---: |
+| <img src="dashboard-vendas/img/dashboard.png" alt="Dashboard Xbox" width="500"> |
+
 ## 🛠️ Tecnologias
-* Microsoft Excel (Fórmulas Lógicas, PROCV, SE e Design de Interface)
+* Microsoft Excel (Dashboards, Tabelas Dinâmicas, Segmentação de Dados e Fórmulas)
 * PostgreSQL (Modelagem Relacional, Views, Scripts SQL e Consultas)
 * PowerShell (Automação de scripts de apoio)
