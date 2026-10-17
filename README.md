@@ -24,5 +24,11 @@ Repositório centralizado com ferramentas automatizadas para simulação finance
 
 ---
 
+### 3. 🃏 Database - Modelagem Relacional Pokémon
+* **O que faz:** Implementa um banco de dados relacional em PostgreSQL para armazenamento e consulta de cartas Pokémon, utilizando tabelas normalizadas, scripts de carga de dados e views para simplificar consultas.
+* **Recursos principais:** Modelagem relacional, chaves estrangeiras, scripts de migração e criação da view `vw_cards_complete` para consulta das cartas com informações descritivas em vez de IDs.
+
 ## 🛠️ Tecnologias
 * Microsoft Excel (Fórmulas Lógicas, PROCV, SE e Design de Interface)
+* PostgreSQL (Modelagem Relacional, Views, Scripts SQL e Consultas)
+* PowerShell (Automação de scripts de apoio)
